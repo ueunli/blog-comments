@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://jev-dev.netlify.app/",
+    "https://jev-dev.com/"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "newest"
+}
